@@ -1,7 +1,7 @@
-#include <iostream> // Para manejo de entrada y salida (cin, cout)
-#include <vector>   // Para usar vectores dinámicos
+#include <iostream> 
+include <vector>   
 
-using namespace std; // Evita usar el prefijo std::
+using namespace std; 
 
 int main() {
     int n; // Variable para la cantidad de primos deseados
